@@ -1,0 +1,14 @@
+# Ignorar directorios de compilación
+bin/
+obj/
+
+# Ignorar archivos binarios
+*.exe
+*.dll
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos de volcado de memoria o stacktrace
+*.stackdump
+x
